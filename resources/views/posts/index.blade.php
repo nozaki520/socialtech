@@ -8,6 +8,10 @@
     @endif
 
     <div class="mb-2">
+        <p class="text-decoration-none" style="color: red; font-size:30px">※💩含むお下品投稿禁止‼</a>
+    </div>
+
+    <div class="mb-2">
         <a href="{{ route('posts.create') }}" class="text-decoration-none">新規投稿</a>
     </div>
 
